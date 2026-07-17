@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.env
+.DS_Store
+cache
+data/saved_school_results
+tests
+Run School Finder.bat
